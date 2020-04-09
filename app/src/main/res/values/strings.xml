@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">kotlin1</string>
+    <string name="track_coding_desig_mobile">mua</string>
+    <string name="todo">todo</string>
+    <string name="email_adress_nnadiukwuoscar_gmail_com">textView</string>
+    <string name="slack_uername_scarnation">textView2</string>
+    <string name="name_nnnadiukwu_chidiebere_oscar">todo2</string>
+    <string name="to">name: nnnadiukwu chidiebere_oscar</string>
+    <string name="too">slack_username:_scarnation</string>
+    <string name="two">email_adress:_nnadiukwuoscar_gmail_com</string>
+    <string name="toi">track:_coding_design_mobile</string>
+</resources>
